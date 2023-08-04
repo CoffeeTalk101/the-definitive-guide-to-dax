@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">bcd3e38e-2faa-44d6-a268-b8ea3740d1a5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcd3e38e-2faa-44d6-a268-b8ea3740d1a5</dc:identifier>
+        <dc:title>The Definitive Guide to DAX: Business intelligence with Microsoft Power BI, SQL Server Analysis Services, and Excel, Second Edition (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Russo, Marco &amp; Ferrari, Alberto" opf:role="aut">Marco Russo</dc:creator>
+        <dc:creator opf:file-as="Russo, Marco &amp; Ferrari, Alberto" opf:role="aut">Alberto Ferrari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-15T00:00:00+00:00</dc:date>
+        <dc:publisher>Microsoft Press</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
